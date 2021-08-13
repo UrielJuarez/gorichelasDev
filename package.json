@@ -36,11 +36,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atenoc/60R15-B4CK.git"
+    "url": "git+https://github.com/UrielJuarez/gorichelasDev.git"
   },
   "bugs": {
-    "url": "https://github.com/atenoc/60R15-B4CK/issues"
+    "url": "https://github.com/UrielJuarez/gorichelasDev/issues"
   },
-  "homepage": "https://github.com/atenoc/60R15-B4CK#readme",
+  "homepage": "https://github.com/UrielJuarez/gorichelasDev#readme",
   "description": "gorichelasDev"
 }
