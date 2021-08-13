@@ -14,7 +14,7 @@ const path = require("path")
 //import ordenRoutes from './routes/orden';
 
 //const usuarioRoutes = require("./routes/usuario")
-const productoRoutes = require("./routes/producto")
+//const productoRoutes = require("./routes/producto")
 const ordenRoutes = require("./routes/orden")
 
 const app = express();
