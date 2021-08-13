@@ -1,7 +1,7 @@
 {
   "name": "gorichelas",
   "version": "1.0.0",
-  "main": "app.mjs",
+  "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
     "clean": "rimraf dist",
@@ -41,5 +41,5 @@
     "url": "https://github.com/atenoc/60R15-B4CK/issues"
   },
   "homepage": "https://github.com/atenoc/60R15-B4CK#readme",
-  "description": ""
+  "description": "gorichelasDev"
 }
