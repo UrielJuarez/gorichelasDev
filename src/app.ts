@@ -13,7 +13,7 @@ const path = require("path")
 //import productoRoutes from './routes/producto';
 //import ordenRoutes from './routes/orden';
 
-const usuarioRoutes = require("./routes/usuario")
+//const usuarioRoutes = require("./routes/usuario")
 const productoRoutes = require("./routes/producto")
 const ordenRoutes = require("./routes/orden")
 
