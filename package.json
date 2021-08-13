@@ -2,6 +2,7 @@
   "name": "gorichelas",
   "version": "1.0.0",
   "main": "src/index.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "clean": "rimraf dist",
